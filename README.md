@@ -1,4 +1,5 @@
 # 🚀 EXL Round 2 – Mini Project
+**Submission Deadline : 22/11/2025 (8pm)**
 
 Welcome! Follow these steps carefully to complete your Round 2 assignment.
 
