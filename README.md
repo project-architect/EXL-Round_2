@@ -6,7 +6,15 @@ Welcome! Follow these steps carefully to complete your Round 2 assignment.
 ---
 
 ## ✅ **1. Download the Repository**
-- Click **Code(in green color) → Download ZIP**
+<img 
+    src="https://github.com/user-attachments/assets/ef613911-a594-4c52-801a-0659ed5cfcd0"
+    width="350"
+    height="260"
+    style="border: 3px solid black;"
+    alt="image"
+/>
+
+- Click **"<> Code(in green color)" → Download ZIP**
 - Extract the folder  
 👉 *All required files are already included.*
 
