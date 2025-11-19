@@ -5,7 +5,7 @@ Welcome! Follow these steps carefully to complete your Round 2 assignment.
 ---
 
 ## ✅ **1. Download the Repository**
-- Click **Code → Download ZIP**
+- Click **Code(in green color) → Download ZIP**
 - Extract the folder  
 👉 *All required files are already included.*
 
@@ -58,7 +58,7 @@ Upload video → **Make link PUBLIC**
 
 ## 📬 **6. Final Submission – Google Form**
 Submit your final details here:  
-👉 **ADD_GOOGLE_FORM_LINK_HERE**
+👉 **https://docs.google.com/forms/d/e/1FAIpQLScIZMt18Dkce7wddMZXv5diO1Xi-S9vMiI0LpcAR_L1Vz967A/viewform?usp=header**
 
 You will submit:
 - Your name  
